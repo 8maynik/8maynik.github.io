@@ -1,4 +1,5 @@
-const SERVER_URL = 'http://academy.directlinedev.com';
+// const SERVER_URL = 'http://academy.directlinedev.com';
+const SERVER_URL = 'https://academy.directlinedev.com';
 const mainLoader = document.querySelector('.loader-js');
 
 //loader
