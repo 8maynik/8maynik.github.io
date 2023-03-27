@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 // const SERVER_URL = 'http://academy.directlinedev.com';
 const SERVER_URL = 'https://academy.directlinedev.com';
-=======
-const SERVER_URL = 'http://academy.directlinedev.com';
->>>>>>> 36b8e1bd13efd36b6a4e3adbbb33f8f411cd13b5
 const mainLoader = document.querySelector('.loader-js');
 
 //loader

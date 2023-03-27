@@ -1,10 +1,6 @@
 (function() {
-<<<<<<< HEAD
 	// const BASE_SERVER_PATH = 'http://academy.directlinedev.com';
 	const BASE_SERVER_PATH = 'https://academy.directlinedev.com';
-=======
-	const BASE_SERVER_PATH = 'http://academy.directlinedev.com';
->>>>>>> 36b8e1bd13efd36b6a4e3adbbb33f8f411cd13b5
 
 	const profileImg = document.querySelector('.j-profile-img');
 	const profileName = document.querySelector('.j-profile-name');
